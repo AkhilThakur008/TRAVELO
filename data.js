@@ -20,17 +20,17 @@ export const sec = {
  export const water={
         heading:'Popular Destination',
         para:'Suffered alteration in some form, by injected humour or good day randomised booth anim 8-bit hella wolf moon beard words.',
-        cards: [{name:'Italy',places:'07',image:"./public/back.jpg"}, {name:'Brazil',places:'03',image:"./public/bg2.jpg",},{name:'America',places:'10',image:"./public/back.jpg"},{name:'Nepal',places:'02',image:"./public/bg2.jpg"},{name:'Maldives',places:'02',image:"./public/back.jpg"},{name:'Indonesia',places:'05',image:"./public/bg2.jpg"}],
+        cards: [{name:'Italy',places:'07',image:"/back.jpg"}, {name:'Brazil',places:'03',image:"/bg2.jpg",},{name:'America',places:'10',image:"/back.jpg"},{name:'Nepal',places:'02',image:"/bg2.jpg"},{name:'Maldives',places:'02',image:"/back.jpg"},{name:'Indonesia',places:'05',image:"/bg2.jpg"}],
          }
 
  export const moreitem={
         heading:'Popular Places',
         para:'Suffered alteration in some form, by injected humour or good day randomised booth anim 8-bit hella wolf moon beard words.',
-        morecards:[{name:'California',country:'USA',image:"./public/back.jpg"},
-            {name:'Korola Megna',country:'USA',image:"./public/bg2.jpg"},
-            {name:'London',country:'USA',image:"./public/back.jpg"},
-            {name:'Miami beach',country:'USA',image:"./public/bg2.jpg"},
-            {name:'Saintmartine Iceland',country:'USA',image:"./public/back.jpg"}],
+        morecards:[{name:'California',country:'USA',image:"/back.jpg"},
+            {name:'Korola Megna',country:'USA',image:"/bg2.jpg"},
+            {name:'London',country:'USA',image:"/back.jpg"},
+            {name:'Miami beach',country:'USA',image:"/bg2.jpg"},
+            {name:'Saintmartine Iceland',country:'USA',image:"/back.jpg"}],
     }
 export const footerData = {
       contact: {
@@ -50,12 +50,12 @@ export const footerData = {
       instagram: {
         title: "Instagram",
         images: [
-          "./public/back.jpg",
-          "./public/bg2.jpg",
-          "./public/back.jpg",
-          "./public/bg2.jpg",
-          "./public/back.jpg",
-          "./public/bg2.jpg",
+          "/back.jpg",
+          "/bg2.jpg",
+          "/back.jpg",
+          "/bg2.jpg",
+          "/back.jpg",
+          "/bg2.jpg",
         ]
       },
       
