@@ -1,8 +1,8 @@
 import './Service.css';
 const service={
-    services:[{logo:'./public/train.jpg',name:'Journey',para:'A wonderful serenity has taken to the possession of my entire soul'},
-        {logo:'./public/train.jpg',name:'Luxuries Hotel',para:'A wonderful serenity has taken to the possession of my entire soul.'},
-        {logo:'./public/train.jpg',name:'Travel Guide',para:'A wonderful serenity has taken to the possession of my entire soul.'}
+    services:[{logo:'/train.jpg',name:'Journey',para:'A wonderful serenity has taken to the possession of my entire soul'},
+        {logo:'/train.jpg',name:'Luxuries Hotel',para:'A wonderful serenity has taken to the possession of my entire soul.'},
+        {logo:'/train.jpg',name:'Travel Guide',para:'A wonderful serenity has taken to the possession of my entire soul.'}
     ],
     
 }
