@@ -12,7 +12,7 @@ export const sec = {
 };
 
  export const heroitem={
-        bg: "./public/back.jpg",
+        bg: "/back.jpg",
         heading:"Switzerland",
         para:"The world is a book and those who do not travel read only one page",
 }
