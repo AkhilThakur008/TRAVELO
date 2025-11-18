@@ -1,0 +1,19 @@
+.hero{
+    /* background-image: url(/task1/task/back.jpg); */
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    
+}
+h1{
+    
+    font-size: 60px;
+}
+p{
+    
+    font-size: 18px;
+}

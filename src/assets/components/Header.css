@@ -1,0 +1,38 @@
+/* Header.css */
+
+.header {
+  background: #606060;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.header-left {
+  display: flex;
+  gap: 15px;
+}
+
+.header-title-box {
+  border-left: 2px solid grey;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-buttons button {
+  background: white;
+  color: #606060;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 50px;
+
+}
+
+.nav-buttons button:hover {
+  background: #ccc;
+}
